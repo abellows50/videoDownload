@@ -1,5 +1,4 @@
 from yt_dlp import YoutubeDL
-import os
 import tkinter as tk
 from yt_dlp import YoutubeDL
 
