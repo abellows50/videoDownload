@@ -1,5 +1,6 @@
 from yt_dlp import YoutubeDL
 import tkinter as tk
+import os
 from yt_dlp import YoutubeDL
 
 directory = './videos/'
